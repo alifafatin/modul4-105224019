@@ -1,4 +1,4 @@
-package modull4; 
+package modull4.PretestModul4; 
 
 class mahasiswa { 
     String nama;
@@ -6,7 +6,7 @@ class mahasiswa {
     String jurusan;
 }
 
-public class Pretest4 {
+public class PretestModul4 {
     public static void main(String[] args) {
         mahasiswa mhsBaru = new mahasiswa(); 
     } 
